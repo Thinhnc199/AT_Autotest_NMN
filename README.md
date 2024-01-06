@@ -6,4 +6,6 @@ Chi Tiết quá trình Test:
 - Chọn phần Cấu Hình
 - Chọn Nước Sản Xuất và Hãng Sản Xuất
 - Kiểm tra hiển thị danh sách ra màng hình và Chụp mang hình Cập nhật minh chứng.
-  
+
+  Link Video Demo:
+  https://youtu.be/g0lCjMI9t5Y
