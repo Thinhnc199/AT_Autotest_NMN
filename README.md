@@ -1,6 +1,6 @@
 Automation Test Nhà Máy Nước.
 
-Kiểm tra hiển thị màng hình chức năng của Cấu Hình (Nước sản xuất và Hãng Sản Xuất)
+Kiểm tra hiển thị màn hình chức năng của Cấu Hình (Nước sản xuất và Hãng Sản Xuất)
 Chi Tiết quá trình Test:
 - Tự động hóa Quá trình đăng nhập với quyền quản lý Admin
 - Chọn phần Cấu Hình
